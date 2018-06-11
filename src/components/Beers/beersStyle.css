@@ -1,0 +1,49 @@
+
+.main {
+    background-color: rgb(247, 247, 247);
+}
+header{
+    height: 200px ;
+    background-color: black;
+    border-bottom: 14px solid salmon;
+    display: flex;
+    justify-content: space-around;
+
+}
+.content {
+    padding: 75px 20px;
+    background-color: rgb(247,247,247);
+}
+.corner{
+    display: inline-block;
+    float: left;
+    width: 500px;
+    height: 100%;
+    padding-top: 49px;
+    font-size: 1.2em;
+}
+.top-block{
+    height: 100%;
+    display: inline-block;
+    margin-top: 43px;
+    /* margin-top: 65px; */
+    float: left;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+.formHolder{
+    display: inline-block;
+    margin-top: 180px;
+    float: right;
+}
+h1 { 
+    color: white;
+    font-size: 85px;
+    font-family: 'Shadows Into Light', cursive;
+}
+.deleteDiv {
+    margin-top:
+}
+.midBlock {
+    height: 100px;
+}

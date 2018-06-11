@@ -1,0 +1,51 @@
+.content {
+  height: 100%;
+  display: flex;
+  padding-bottom: 100%;
+  margin-bottom: -100%;
+}
+
+.beerDisplay {
+ 
+  box-shadow: 0px 1px .5px rgba(0, 0, 0, .5);
+  background-color: rgb(255,255,255);
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.Beer {
+  background-color: salmon;
+  border-radius: 15px;
+  width: 250px;
+  height: 450px;
+  border: 6px ridge rebeccapurple;
+  text-align: left;
+  padding: 10px;
+  margin: 30px;
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, .5);
+	-webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -o-transition: margin 0.5s ease-out;
+
+}
+.Beer:hover {
+    cursor:pointer;
+    margin-top: 10px;
+  }
+
+
+.Beer p {
+  width: 100px;
+  text-align: center;
+  margin-left: 65px;
+}
+.brandImage {
+  width: auto;
+  height: 200px;
+}
+.deleteDiv {
+  margin-top: 50px;
+  cursor: pointer;
+}

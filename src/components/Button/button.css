@@ -1,0 +1,11 @@
+button {
+    color: rebeccapurple;
+    border-radius: 12px;
+    -webkit-transition: height 1.0s ease-out;
+    -moz-transition: height 1.0s ease-out;
+    -o-transition: height 1.0s ease-out;
+}
+button:hover {
+    cursor:pointer;
+    height: 25px;
+}

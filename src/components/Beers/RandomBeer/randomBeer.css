@@ -1,0 +1,41 @@
+/* .content {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  background-color: lemonchiffon;
+  padding-bottom: 100%;
+  margin-bottom: -100%;
+}
+
+.left-side {
+  margin-left: 100px;
+  background-color: lemonchiffon;
+  padding-bottom: 100%;
+  margin-bottom: -100%;
+
+}
+.beerDisplay {
+  border-left: 10px double red;
+  height: 100%;
+  padding-bottom: 100%;
+  margin-bottom: -100%;
+}
+
+.Beer {
+  background-color: lemonchiffon;
+
+  display: flex;
+  width: 100vmax;
+  max-width: 100%;
+  flex-direction: row;
+  text-align: left;
+}
+h4 {
+  text-indent: 10px;
+}
+
+.Beer p {
+  text-indent: 40px;
+  border-bottom: 2px solid darkblue;
+  max-width: 100%;
+} */
